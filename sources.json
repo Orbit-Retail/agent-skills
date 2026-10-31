@@ -1,0 +1,74 @@
+[
+  {
+    "folder": "ponytail",
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "revision": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846",
+    "path": "skills/ponytail",
+    "licenses": [
+      "LICENSE"
+    ],
+    "modifications": []
+  },
+  {
+    "folder": "taste",
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "revision": "12af471f627f866411b4bd785b19646d3672784c",
+    "path": "skills/taste-skill",
+    "licenses": [
+      "LICENSE"
+    ],
+    "modifications": []
+  },
+  {
+    "folder": "frontend-design",
+    "repository": "https://github.com/anthropics/skills",
+    "revision": "ca45fc496a3436251f191354091d557da31c15b5",
+    "path": "skills/frontend-design",
+    "licenses": [
+      "skills/frontend-design/LICENSE.txt"
+    ],
+    "modifications": []
+  },
+  {
+    "folder": "impeccable",
+    "repository": "https://github.com/pbakaus/impeccable",
+    "revision": "df3a4abe7d0840d5f60324812c432e00b66a4e75",
+    "path": ".agents/skills/impeccable",
+    "licenses": [
+      "LICENSE",
+      "NOTICE.md"
+    ],
+    "modifications": []
+  },
+  {
+    "folder": "ui-ux-pro-max",
+    "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "revision": "9a3f14f7423037ccb8feeb4fee7482291b9c820e",
+    "path": ".claude/skills/ui-ux-pro-max",
+    "licenses": [
+      "LICENSE"
+    ],
+    "modifications": [
+      "SKILL.md: replace Claude-specific plugin root with the installed skill directory placeholder."
+    ]
+  },
+  {
+    "folder": "shadcn",
+    "repository": "https://github.com/shadcn-ui/ui",
+    "revision": "b8d7baa15b1dca5716f13153e63795fc3d741f6b",
+    "path": "skills/shadcn",
+    "licenses": [
+      "LICENSE.md"
+    ],
+    "modifications": []
+  },
+  {
+    "folder": "motion",
+    "repository": "https://github.com/motiondivision/ai-kit",
+    "revision": "1e424943582cbbdb6e3f410687e39f96451447bb",
+    "path": "plugins/motion/skills/motion",
+    "licenses": [],
+    "modifications": [],
+    "license_declaration": "MIT (packages/motion-ai/package.json); upstream has no standalone license file"
+  }
+]
