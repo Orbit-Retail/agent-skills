@@ -70,5 +70,15 @@
     "licenses": [],
     "modifications": [],
     "license_declaration": "MIT (packages/motion-ai/package.json); upstream has no standalone license file"
+  },
+  {
+    "folder": "neon",
+    "repository": "https://github.com/neondatabase/agent-skills",
+    "revision": "60b9a53fdd08c3be22781c5e51f6b689a77d3e39",
+    "path": "skills/neon",
+    "licenses": [
+      "LICENSE"
+    ],
+    "modifications": []
   }
 ]

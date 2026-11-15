@@ -20,6 +20,7 @@ Colección compartida para trabajar en proyectos de Orbit Retail.
 | `shadcn` | shadcn-ui/ui | Herramientas del proyecto y CLI según la tarea |
 | `motion` | motiondivision/ai-kit | Buenas prácticas locales; MCP para búsquedas y herramientas adicionales |
 | `react-bits` | Guía propia de Orbit | Integración con el catálogo gratuito oficial |
+| `neon` | neondatabase/agent-skills | Neon CLI autenticada; sus skills hijas (`neon-auth`, `neon-postgres`, etc.) se instalan con `neon skills` |
 
 Las copias externas conservan recursos, atribuciones, licencias disponibles y
 commit en `sources.json` y `ORIGIN.md`. UI UX Pro Max adapta únicamente sus rutas
@@ -47,6 +48,6 @@ No se han instalado MCPs ni motores adicionales en el equipo al crear este repo.
 
 ## Estado
 
-Incluye las once skills acordadas: siete copias externas y cuatro propias
+Incluye doce skills: ocho copias externas y cuatro propias
 (Spira, PR, Commit y la integración de React Bits). La presencia de una skill no
 implica que todas sus integraciones o capacidades premium estén configuradas.
